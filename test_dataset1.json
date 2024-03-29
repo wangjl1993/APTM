@@ -1,0 +1,42 @@
+[
+  {
+    "file_path": "/home/zhangqin/wangjl_data/Qwen-VL/human_struct_test_data/QwenVLChat/true_0.jpg",
+    "caption": "a man wearing a white T-shirt, black shorts, and black flip-flops. His hair is short."
+  },
+  {
+    "file_path": "/home/zhangqin/wangjl_data/Qwen-VL/human_struct_test_data/QwenVLChat/true_1.jpg",
+    "caption": "a man wearing a white shirt and black pants, with red sneakers on his feet. His hair is black and relatively short. He wears a wristwatch."
+  },
+  {
+    "file_path": "/home/zhangqin/wangjl_data/Qwen-VL/human_struct_test_data/QwenVLChat/true_2.jpg",
+    "caption": "a woman wearing a light white dress. Her hair is black, shoulder-length, wearing flat shoes, and wearing a watch on her wrist."
+  },
+  {
+    "file_path": "/home/zhangqin/wangjl_data/Qwen-VL/human_struct_test_data/QwenVLChat/true_3.jpg",
+    "caption": "a woman wearing a white shirt and black pants. Her hair is tied back neatly. She wears glasses. She wears black shoes."
+  },
+  {
+    "file_path": "/home/zhangqin/wangjl_data/Qwen-VL/human_struct_test_data/QwenVLChat/true_4.jpg",
+    "caption": "a man wearing a green short-sleeved T-shirt on the upper body and black shorts on the lower body. He wears black sneakers on his feet. His hair is brown and looks fluffy."
+  },
+  {
+    "file_path": "/home/zhangqin/wangjl_data/Qwen-VL/human_struct_test_data/QwenVLChat/true_5.jpg",
+    "caption": "a person wearing a purple short-sleeved shirt and gray pants. His hair looks relatively short. He is riding a bicycle and wearing a white hat."
+  },
+  {
+    "file_path": "/home/zhangqin/wangjl_data/Qwen-VL/human_struct_test_data/QwenVLChat/true_6.jpg",
+    "caption": "a man wearing a pink shirt and black pants, with sneakers on his feet. His hair is somewhat sparse, with some balding on the top."
+  },
+  {
+    "file_path": "/home/zhangqin/wangjl_data/Qwen-VL/human_struct_test_data/QwenVLChat/true_7.jpg",
+    "caption": "a female wearing a white T-shirt with some patterns or words on it. She is wearing green shorts on the lower body. Her shoes appear to be flat and light in color, possibly beige or light gray. Her hairstyle is long hair tied into a ponytail."
+  },
+  {
+    "file_path": "/home/zhangqin/wangjl_data/Qwen-VL/human_struct_test_data/QwenVLChat/true_8.jpg",
+    "caption": "a man wearing casual attire. He is wearing a light blue or turquoise T-shirt and light gray or beige sweatpants. He wears sneakers on his feet. He is carrying a black backpack. He has black short hair."
+  },
+  {
+    "file_path": "/home/zhangqin/wangjl_data/Qwen-VL/human_struct_test_data/QwenVLChat/true_9.jpg",
+    "caption": "a woman wearing a white top and a red skirt. She is carrying a black backpack and wearing high heels. Her hair is black and looks relatively long."
+  }
+]

@@ -14,7 +14,7 @@ w: 128
 
 ## Text Encoder
 text_config: 'configs/config_bert.json'
-text_encoder: 'data/bert-base-uncased'
+text_encoder: 'bert-base-uncased'
 
 
 ## Training

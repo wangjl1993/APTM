@@ -1,0 +1,122 @@
+[
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true_0.jpg",
+    "caption": "a man wearing a white T-shirt, black shorts, and black flip-flops. His hair is short."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true_1.jpg",
+    "caption": "a man wearing a white shirt and black pants, with red sneakers on his feet. His hair is black and relatively short. He wears a wristwatch."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true_2.jpg",
+    "caption": "a woman wearing a light white dress. Her hair is black, shoulder-length, wearing flat shoes, and wearing a watch on her wrist."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true_3.jpg",
+    "caption": "a woman wearing a white shirt and black pants. Her hair is tied back neatly. She wears glasses. She wears black shoes."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true_4.jpg",
+    "caption": "a man wearing a green short-sleeved T-shirt on the upper body and black shorts on the lower body. He wears black sneakers on his feet. His hair is brown and looks fluffy."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true_5.jpg",
+    "caption": "a person wearing a purple short-sleeved shirt and gray pants. His hair looks relatively short. He is riding a bicycle and wearing a white hat."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true_6.jpg",
+    "caption": "a man wearing a pink shirt and black pants, with sneakers on his feet. His hair is somewhat sparse, with some balding on the top."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true_7.jpg",
+    "caption": "a female wearing a white T-shirt with some patterns or words on it. She is wearing green shorts on the lower body. Her shoes appear to be flat and light in color, possibly beige or light gray. Her hairstyle is long hair tied into a ponytail."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true_8.jpg",
+    "caption": "a man wearing casual attire. He is wearing a light blue or turquoise T-shirt and light gray or beige sweatpants. He wears sneakers on his feet. He is carrying a black backpack. He has black short hair."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true_9.jpg",
+    "caption": "a woman wearing a white top and a red skirt. She is carrying a black backpack and wearing high heels. Her hair is black and looks relatively long."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true11.jpg",
+    "caption": "a man wearing a blue t-shirt, blue jeans, and a red helmet. he have short hair that is styled in a simple manner. he is riding an electric scooter."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true12.jpg",
+    "caption": "a man wearing a yellow jacket with black stripes on the sleeves, a black helmet, and has short hair. "
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true13.jpg",
+    "caption": "a woman wearing a striped sweater, light-colored pants, white sneakers, and her hair is black and long."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true14.jpg",
+    "caption": "a man wearing a blue shirt with a yellow vest over it, black pants, and black boots. He is wearing a black duckbill cap.his hair is short and black. he looks like a traffic policeman"
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true15.jpg",
+    "caption": "a man wearing a green t-shirt ,blue jeans and black-white shoes, he is bald."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true16.jpg",
+    "caption": "a man wearing a red t-shirt paired with beige pants. He has short gray hair with some balding on the top and is walking away from the camera. The man is also wearing black shoes and a belt around his waist."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true17.jpg",
+    "caption": "a woman is dressed in a black dress adorned with red flowers, giving off a simple yet elegant look. Her long dark hair is neatly tied into a bun. She carries a green handbag over her shoulder, providing a contrasting color to her black dress. Although not clearly visible, she seems to be wearing ea rrings as well."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true18.jpg",
+    "caption": "a person wearing a pink tracksuit, which suggests a casual and comfortable attire. has short hair and carrying a brown bag."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true19.jpg",
+    "caption": "a female is dressed in a light-colored down jacket paired with black pants, and black-white shoes.She has long hair, also wears a mask on her face.She wears glasses.It seems she is carrying a shoulder bag."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true20.jpg",
+    "caption": "a person wearing a brown jacket with a floral pattern on it, black pants, white socks, black shoes and a hat."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true21.jpg",
+    "caption": "a man is wearing a striped shirt, short pants, and has on a helmet.The stripes on shirt appear to be in blue, deep blue and white.he wears white socks and sandals.He is riding a scooter motor and there is someone sitting in front."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true22.jpg",
+    "caption": "a girl wearing a mask, a purple long-sleeved shirt with white text on it. She is wearing black pants and carrying a pink backpack on her back. Her hair is tied up in a ponytail, and she is carrying an orange bag. She is also wearing a red scarf."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true23.jpg",
+    "caption": "a old woman wearing a jacket with a floral pattern that includes black, red, yellow, and white colors. She has short hair. she is carrying a blue bag on her right hand. she wearing black pants."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true24.jpg",
+    "caption": "a girl wearing a pink coat, blue jeans, and white shoes. she has a bob haircut, and wearing a white face mask."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true25.jpg",
+    "caption": "a woman wearing a white shirt with a red collar, a gray skirt, and white shoes. She has her hair tied up in a bun. On her wrist, she is wearing a watch. She is wearing glasses and carrying a brown small bag over her shoulder."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true26.jpg",
+    "caption": "a person back to the camera is carrying a conspicuous pink backpack and appears to be holding something in hand. wearing light brown trousers and a dark-colored jacket, along with a pair of white sneakers. seem to be slightly balding."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true27.jpg",
+    "caption": "a woman wearing a white top with a square neckline, a black skirt that falls above her knees, and white shoes. She has tied up her hair into a bun on the top of her head. In addition to these, she is also carrying a handbag."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true28.jpg",
+    "caption": "a person in the image is wearing a pink jacket with a floral pattern on it, along with a pink helmet that matches their jacket. They also have black pants on and are wearing boots. Additionally, they are holding onto the handlebars of a motorbike, suggesting that they might be riding or about to ride the vehicle."
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true29.jpg",
+    "caption": "a woman wearing a brown blazer over a red shirt with a white collar , paired with blue jeans. carrying a black handbag and wearing a mask on her face"
+  },
+  {
+    "file_path": "/home/zhangqin/hesenxu/llm/human_retrieve_text/true30.jpg",
+    "caption": "a young boy is wearing a black puffer jacket and black pants, with a pair of white sneakers. It seems like he is holding someone hand."
+  }
+]

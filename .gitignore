@@ -1,0 +1,10 @@
+**.pyc
+**.bin
+**.pth
+**.txt
+**.npy
+**.jpg
+**.mp4
+**.pt
+**.ipynb
+!assets/web_demo.jpg
