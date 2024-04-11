@@ -7,6 +7,7 @@ from myutils.retrieval_metric import retrieval_metric
 from myutils.model_infer import extract_img_feats, extract_text_feats
 
 import torch
+from vector_database_lib.weaviate_database import search_from_weaviate_db
 
 def evaluate(model, tokenizer, img_root, test_text_file, batch_size, device, top_k, save_img_feats=True):
     img_root = Path(img_root)
@@ -73,3 +74,15 @@ def retrieval_person_based_on_text(model, tokenizer, device, text, img_root, bat
     return pre_rank, np.sort(sims_matrix)[:, ::-1]
 
 
+def retrieval_person_based_on_text_from_weaviate_db(model, tokenizer, device, text, database, top_k):
+    if isinstance(text, str):
+        text = [text]
+    text = [{"caption": i} for i in text]
+    text_dataset = RetrievalTextDataset(text)
+    text_dataloader = DataLoader(text_dataset, shuffle=False, num_workers=16)
+    text_feats, _ = extract_text_feats(model, tokenizer, device, text_dataloader)
+    
+    text_feats = text_feats[0].cpu().numpy().tolist()
+    results = search_from_weaviate_db(database, text_feats, top_k=top_k)
+
+    return results

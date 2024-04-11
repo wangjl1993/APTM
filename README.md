@@ -6,8 +6,8 @@
 1. input video (or img_root) and retrieval text.
 2. use yolov5 model to crop person image (if input is video).
 3. Chinese to English translation.
-3. extract image and text features.
-4. retrieval.
+3. extract image and text features. (upload to weaviate database.)
+4. retrieval. (from weaviate database.)
 <div align="center"><img src="assets/web_demo.jpg" width="900"></div>
 
 
@@ -19,3 +19,8 @@
 
 ## APTM
 Ref [APTM](https://github.com/Shuyu-XJTU/APTM)
+
+
+## [Weaviate database](https://weaviate.io/developers/weaviate)
+
+retrieval top10/10000 : 8ms
